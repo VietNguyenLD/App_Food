@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "728872305349",
+    "firebase_url": "https://anthucnambo.firebaseio.com",
+    "project_id": "anthucnambo",
+    "storage_bucket": "anthucnambo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728872305349:android:e812ea3945245da93666ac",
+        "android_client_info": {
+          "package_name": "lbt.com.amthuc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728872305349-qou5le0pj4avmtt2up68olekp2pn1ebv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lbt.com.amthuc",
+            "certificate_hash": "6b447d4b57ae8440ded1ddecec01c1fcc04783d4"
+          }
+        },
+        {
+          "client_id": "728872305349-o7n9jv3kkp7r70vmti8q3icn5eir44ga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP05siyRuNcqSLJCKOWOG2tXaAgYyDiso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728872305349-o7n9jv3kkp7r70vmti8q3icn5eir44ga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
